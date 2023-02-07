@@ -1,0 +1,31 @@
+{
+  "name": "bitaddress.org-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "balance-crypto": "^0.2.15",
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoin-transaction": "^1.2.1",
+    "bitcoinjs-lib": "^6.1.0",
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-insight": "^1.0.1",
+    "bitcore-lib": "^8.25.40",
+    "bitcore-lib-cash": "^8.25.40",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "crypto-wallets": "^1.0.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "morgan": "^1.10.0",
+    "send-crypto": "^0.2.38",
+    "sha256": "^0.2.0"
+  }
+}
